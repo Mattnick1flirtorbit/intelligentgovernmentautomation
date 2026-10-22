@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://intelligentgovernmentautomation.com/sitemap.xml
